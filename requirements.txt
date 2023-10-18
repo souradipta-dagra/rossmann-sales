@@ -1,0 +1,6 @@
+joblib==0.13.2
+pandas==0.25.1
+numpy==1.16.5
+scikit_learn==0.24.1
+jupyter
+Flask==2.0.1
